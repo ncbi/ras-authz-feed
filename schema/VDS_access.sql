@@ -14,6 +14,7 @@ CREATE TABLE VDS_access
 	created datetime NOT NULL DEFAULT (getdate()),
 	consent_name varchar (200) NULL,
 	consent_accession varchar (50) NULL,
+        -- Hi
         PRIMARY KEY CLUSTERED 
         (
                 [user_id],
