@@ -23,4 +23,5 @@ CREATE TABLE VDS_access
 	        _acid,
 	        downloader_for
         )
+        -- a harmless comment
 )
